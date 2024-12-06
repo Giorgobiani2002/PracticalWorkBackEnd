@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Apple",
+    "Description": "AppleISgoodforhealth",
+    "Price": "500",
+    "Color": "green"
+  },
+  {
+    "Name": "Apple",
+    "Description": "AppleISgoodforhealth",
+    "Price": "600",
+    "Color": "green"
+  },
+  {
+    "Name": "Apple",
+    "Description": "AppleISgoodforhealth",
+    "Price": "700",
+    "Color": "green"
+  }
+]
